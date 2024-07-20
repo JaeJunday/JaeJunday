@@ -1,6 +1,3 @@
-소셜 매칭 서비스 Tea for Two입니다.
-
-[![TFT](https://github.com/JaeJunday/JaeJunday/assets/109643814/524441ff-bde5-4c6e-9a1d-923d5f05dfaf)](https://matcha-deploy.vercel.app/)
 
 <!--
 **JaeJunday/JaeJunday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
