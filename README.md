@@ -28,7 +28,7 @@
 
 ## Interest
 
-### 기계식 키보드 & 3D렌더링
+### 3D Rendering
 
 ```stl
 solid 
@@ -11238,7 +11238,7 @@ endsolid
 ```
 
 
-### 헬스 & 다이어그램
+### Visualization
 ```mermaid
 gitGraph
    commit id: "다이어트 결심"
