@@ -4805,7 +4805,7 @@ endsolid
 
 ```
 
-### 식단조절 & 다이어그램
+### 헬스 & 다이어그램
 ```mermaid
 gitGraph
    commit id: "다이어트 결심"
