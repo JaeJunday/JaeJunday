@@ -7,7 +7,7 @@
 <h5>Frontend</h3>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/>
 
 <h5>Web Basics</h3>
